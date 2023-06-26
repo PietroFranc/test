@@ -8,3 +8,4 @@ susine
 pesche
 ananas
 avocado
+papaya
