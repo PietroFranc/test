@@ -6,3 +6,5 @@ melone
 uva
 susine
 pesche
+ananas
+avocado
